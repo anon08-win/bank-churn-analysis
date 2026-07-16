@@ -38,6 +38,8 @@ Gender – Gender mapping
 
 Total Records: ~10,000 customers
 
+Overall churn rate: 20.4%
+
 
 #  Data Processing (SQL)
 
