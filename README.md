@@ -3,7 +3,7 @@
 # SQL | Power BI | Business Insights | Data Analytics Case Study
 
 
-# 📌 Business Problem
+#  Business Problem
 
 Customer churn directly impacts revenue and customer lifetime value in the banking industry.
 
@@ -20,7 +20,7 @@ Provide actionable retention recommendations
 This project simulates a real-world Data Analyst assignment for a retail banking client.
 
 
-# 📊 Dataset Description
+#  Dataset Description
 
 The dataset consists of structured banking CRM data across multiple tables:
 
@@ -39,7 +39,7 @@ Gender – Gender mapping
 Total Records: ~10,000 customers
 
 
-# 🧹 Data Processing (SQL)
+#  Data Processing (SQL)
 
 Using SQL, the following steps were performed:
 
@@ -53,7 +53,7 @@ Created derived metrics for analysis
 
 Aggregated KPIs for dashboard reporting
 
-# 📈 Key Analytical Insights
+#  Key Analytical Insights
 1️⃣ Regional Impact
 
 Certain geographies show significantly higher churn rates, indicating the need for region-specific retention strategies.
@@ -75,7 +75,7 @@ Inactive customers churn at a substantially higher rate. Engagement tracking sho
 Some high-balance customers churn, indicating dissatisfaction among premium segments.
 
 
-# 📊 Power BI Dashboard
+#  Power BI Dashboard
 
 The Power BI dashboard visualizes:
 
@@ -93,9 +93,9 @@ Customer segmentation metrics
 
 The dashboard is designed for business stakeholders to quickly identify churn risk drivers.
 
-# 📂 File: reports/Bank_CRM_Project.pbix
+#  File: reports/Bank_CRM_Project.pbix
 
-# 🛠 Tools & Technologies
+#  Tools & Technologies
 
 SQL (MySQL) – Data extraction, joins, aggregation
 
@@ -105,7 +105,7 @@ Data Cleaning & Transformation
 
 Business Insight Reporting
 
-# 💡 Business Recommendations
+#  Business Recommendations
 
 Based on the analysis:
 
@@ -119,29 +119,11 @@ Develop region-specific churn mitigation strategies
 
 Monitor churn KPIs regularly through dashboard reporting
 
-# 📁 Repository Structure
+#  Repository Structure
 data/        → Source datasets  
 sql/         → SQL extraction & transformation scripts  
 reports/     → Power BI dashboard file  
 exports/     → Exported dashboard visuals (PDF/PNG)  
 
-# 🎯 Project Objective
-
-This project demonstrates:
-
-Strong SQL analytical capability
-
-Ability to join and analyze relational datasets
-
-Business-focused data interpretation
-
-Dashboard design for executive reporting
-
-Real-world churn analysis use case
-
-# 👤 Author
-
-Aishwary Pratap Singh
-Aspiring Data Analyst | SQL | Power BI | ML | Business Analytics
 
 ![Sales Dashboard Screenshot](exports/Bank_CRM_Project.png)
